@@ -1,4 +1,4 @@
-If you're using Lotsay created by Sovit Jung Rijal & Deepsan Pokhrel
+If you're using Lotsay created by Sovit Jung Rijal
 Follow these steps ---
 
   1) Run this script in your terminal 
