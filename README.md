@@ -1,6 +1,8 @@
 If you're using Lotsay created by Sovit Jung Rijal & Deepsan Pokhrel
 Follow these steps ---
 
+  
+  
   1) Run this script in your terminal 
     #!/bin/bash
     sudo apt update
@@ -12,6 +14,12 @@ Follow these steps ---
     cd zphisher
     chmod +x zphisher.sh
  
+
+
+
+
+
+
  
  
  2) To Run Lotsay bash lotsay.sh
