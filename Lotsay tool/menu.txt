@@ -1,0 +1,9 @@
+
+Lotsay
+       |
+       |
+       |
+        ----------> 1 Nmap (For Network Scaning)
+        ----------> 2 Wireshark (For Network Analying)
+        ----------> 3 Sublist3r (for Subdomain Finder)
+        ----------> 4 ZPhisher (For Phishing Tool)
