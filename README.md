@@ -3,7 +3,8 @@ Follow these steps ---
 
   
   
-  1) Run this script in your terminal 
+  1)
+      Run this script in your terminal 
     #!/bin/bash
     sudo apt update
     sudo apt install -y nmap wireshark git python3-pip
@@ -22,4 +23,4 @@ Follow these steps ---
 
  
  
- 2) To Run Lotsay bash lotsay.sh
+ 3) To Run Lotsay bash lotsay.sh
